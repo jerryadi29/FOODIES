@@ -1,0 +1,32 @@
+.Nav-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 1%;
+    overflow: hidden;
+    background-color: rgb(1, 204, 255);
+}
+
+li{
+    float:right;
+    
+}
+
+.icon{
+    
+    position: relative;
+}
+
+
+li .icon:hover{
+    color: red;
+}
+
+.item-count{
+        position: relative;
+        margin-bottom:20px;
+        padding:20% ;
+        background-color: yellow;
+        border-radius: 50%;
+       color: red ;
+       font-size:xx-large;
+}
